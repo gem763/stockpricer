@@ -1,0 +1,1 @@
+from stockpricer.model import Pricer
